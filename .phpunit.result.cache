@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\capturaTest::test_crawler":4},"times":{"Tests\\Unit\\ExampleTest::test_example":0.005,"Tests\\Feature\\ExampleTest::test_example":0.182,"Tests\\Feature\\capturaTest::test_crawler":0.941}}
